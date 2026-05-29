@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\bin\Debug\net10.0\session_1.exe
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\bin\Debug\net10.0\session_1.deps.json
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\bin\Debug\net10.0\session_1.runtimeconfig.json
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\bin\Debug\net10.0\session_1.dll
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\bin\Debug\net10.0\session_1.pdb
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\obj\Debug\net10.0\session_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\obj\Debug\net10.0\session_1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\obj\Debug\net10.0\session_1.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\obj\Debug\net10.0\session_1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\obj\Debug\net10.0\session_1.dll
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\obj\Debug\net10.0\refint\session_1.dll
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\obj\Debug\net10.0\session_1.pdb
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\obj\Debug\net10.0\session_1.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\qiyas\Qiyas-lab-exercise\session_1\obj\Debug\net10.0\ref\session_1.dll
